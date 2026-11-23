@@ -1,4 +1,4 @@
-# Academic Habits | K-Means & KNN
+# 📕 Academic Habits | K-Means & KNN
 
 **Machine Learning & Student Performance Analysis | Python**
 
